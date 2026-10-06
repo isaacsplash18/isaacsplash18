@@ -14,7 +14,6 @@ Founder at [Splash Advisory](https://splash-advisory.vercel.app). I build small,
 | [**Hello at Lifechurch**](https://github.com/isaacsplash18/life-church-arrival) | Welcome site for first-time church visitors. No logins, no tracking; forms route to Telegram, email or Sheets. | Astro · GitHub Actions |
 | [**Soycraft World**](https://github.com/isaacsplash18/soycraft-world) | A 3D free-roam browser mini-game for a pet brand: walk a dog around a garden and discover real products. | Three.js · Vite |
 | [**Tally**](https://github.com/isaacsplash18/tally) | Household budget PWA for two, with weekly envelopes and a reward pot. | Next.js · Supabase · PWA |
-| [**BBW Connect**](https://github.com/isaacsplash18/bbw-connect) | Event and training booking for a members' community, with RLS, email confirmations and cron reminders. | Next.js · Supabase · Resend |
 
 #### Tools I reach for
 
