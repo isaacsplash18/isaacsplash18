@@ -11,7 +11,6 @@ Founder at [Splash Advisory](https://splash-advisory.vercel.app). I build small,
 | [**Everafter**](https://github.com/isaacsplash18/everafter-wedding) | Wedding site with a no-account RSVP flow, per-event invitations and an admin guest-list dashboard. | React · TypeScript · Vite |
 | [**AI Twin Command Center**](https://github.com/isaacsplash18/isaac-twin-command-center) | Phone-first approval and publishing console for an AI content twin. Drafts flow Notion → review → Typefully → X/LinkedIn, and cron jobs reconcile status back. | Next.js 15 · Notion API · Typefully · Vercel Cron |
 | [**Finish Line**](https://github.com/isaacsplash18/finish-line) | An app whose only job is making you finish what you start: one next move a day, a weekly Focus score, a Sunday review ritual. | Next.js · Supabase · Vitest |
-| [**Hello at Lifechurch**](https://github.com/isaacsplash18/life-church-arrival) | Welcome site for first-time church visitors. No logins, no tracking; forms route to Telegram, email or Sheets. | Astro · GitHub Actions |
 | [**Soycraft World**](https://github.com/isaacsplash18/soycraft-world) | A 3D free-roam browser mini-game for a pet brand: walk a dog around a garden and discover real products. | Three.js · Vite |
 | [**Tally**](https://github.com/isaacsplash18/tally) | Household budget PWA for two, with weekly envelopes and a reward pot. | Next.js · Supabase · PWA |
 
